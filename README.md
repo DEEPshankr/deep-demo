@@ -1,2 +1,3 @@
 # deep-demo
-this is my first project
+This is my first Git Repository.
+Auther - Deep Shankar
